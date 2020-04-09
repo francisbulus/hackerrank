@@ -1,4 +1,4 @@
-def maximumToys(prices, k):
+def max_toys(prices, k):
     prices.sort()
     purchase_count = 0
     total_so_far = 0
