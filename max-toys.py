@@ -9,3 +9,5 @@ def max_toys(prices, k):
             purchase_count += 1
         else:
             return purchase_count
+
+##second solution
