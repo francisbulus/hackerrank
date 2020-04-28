@@ -5,4 +5,4 @@ def solve(meal_cost, tip_percent, tax_percent):
     print(total_cost)
 
 
-print(solve(12.00, 20, 8))
+print(solve(12.00, 20, 3))
